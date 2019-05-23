@@ -7,4 +7,4 @@ When you run out of mana or cards
 Each attack knocks a point of the enemy health
 Each defend shields 2 points of your health
 
-To run, download folder as zip, unzip and run cardgame.py as a python3 file.
+To run, download folder as zip, unzip and run cardgame.py as a python2 or python3 file.
