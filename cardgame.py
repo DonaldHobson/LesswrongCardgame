@@ -1,5 +1,8 @@
 #https://www.lesswrong.com/posts/iJDrAuhByc8jJiFCE/constraints-and-slackness-reasoning-exercises
-import tkinter as tk
+try:
+    import tkinter as tk
+except:
+    import Tkinter as tk
 from random import *
 root=tk.Tk()
 c = tk.Canvas(root)
